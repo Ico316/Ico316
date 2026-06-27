@@ -1,53 +1,102 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=1000&color=00C896&center=true&vCenter=true&width=800&lines=Hristo;Backend+Developer;C%23+%7C+ASP.NET+%7C+JavaScript+%7C+Python;Building+Reliable+Software+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=900&color=00C896&center=true&vCenter=true&width=850&lines=HRISTO;BACKEND+DEVELOPER;C%23+%7C+ASP.NET+%7C+JAVASCRIPT+%7C+PYTHON+%7C+C%2B%2B;BUILDING+RELIABLE+SOFTWARE+SYSTEMS" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Backend%20Developer-0D1117?style=for-the-badge&logo=server&logoColor=00C896"/>
-<img src="https://img.shields.io/badge/.NET%20Developer-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
-<img src="https://img.shields.io/badge/Currently%20Learning-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00C896?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/ROLE-BACKEND%20DEVELOPER-00FFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-FF00FF?style=for-the-badge"/>
 
 </div>
 
 
 ---
 
-# 👨‍💻 About Me
-
-Hello, I'm **Hristo** — a Backend Developer focused on building reliable, maintainable, and scalable software solutions.
-
-My main focus is backend development, where I enjoy designing:
-
-- RESTful APIs
-- Application logic
-- Database-driven systems
-- Clean and structured architectures
+# 👨‍💻 Developer Profile // Hristo
 
 
-I believe in writing software that is:
+```yaml
+Name:
+  Hristo
 
-- Simple to understand
-- Easy to maintain
-- Built with strong fundamentals
+Role:
+  Backend Developer
 
+Primary Languages:
+  - C#
+  - JavaScript
+  - Python
+  - C++
 
-Currently, I am expanding my skills through **JavaScript studies at SoftUni**, improving my understanding of modern web development and full-stack technologies.
+Main Focus:
+  - Backend Development
+  - REST APIs
+  - Application Architecture
+  - Database Driven Systems
+
+Currently:
+  Studying JavaScript at SoftUni
+
+Mission:
+  Build reliable software.
+  Improve engineering skills.
+  Create scalable solutions.
+```
 
 
 ---
 
-# 🧠 Technical Skills
+# ⚡ About Me
+
+
+I am a **Backend Developer** focused on creating reliable, maintainable, and scalable software systems.
+
+My main interests are:
+
+- Designing backend applications
+- Building RESTful APIs
+- Working with databases
+- Writing clean and structured code
+- Improving software architecture
+
+
+My development mindset:
+
+🧱 Strong foundations  
+⚡ Clean architecture  
+🎯 Problem solving  
+🚀 Continuous improvement  
+
+
+---
+
+# 🧬 Technical Stack // Core Technologies
 
 
 <div align="center">
 
+
 <table>
 
 <tr>
-<th>Technology</th>
-<th>Focus</th>
-<th>Experience</th>
+
+<th align="center">
+⚡ TECHNOLOGY
+</th>
+
+<th align="center">
+🧠 FOCUS AREA
+</th>
+
+<th align="center">
+🚀 APPLICATION
+</th>
+
 </tr>
 
 
@@ -55,7 +104,7 @@ Currently, I am expanding my skills through **JavaScript studies at SoftUni**, i
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=cs" width="55"/>
+<img src="https://skillicons.dev/icons?i=cs" width="60"/>
 
 <br>
 
@@ -67,7 +116,7 @@ Currently, I am expanding my skills through **JavaScript studies at SoftUni**, i
 
 Backend Development<br>
 Object-Oriented Programming<br>
-Application Design
+.NET Ecosystem
 
 </td>
 
@@ -75,18 +124,19 @@ Application Design
 
 ASP.NET Core<br>
 REST APIs<br>
-.NET ecosystem
+Application Logic
 
 </td>
 
 </tr>
 
 
+
 <tr>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=js" width="55"/>
+<img src="https://skillicons.dev/icons?i=js" width="60"/>
 
 <br>
 
@@ -98,25 +148,27 @@ REST APIs<br>
 
 Web Development<br>
 Programming Fundamentals<br>
-Frontend Concepts
+Modern Applications
 
 </td>
 
 <td align="center">
 
 Currently studying<br>
-SoftUni JavaScript Program
+SoftUni JavaScript Program<br>
+Full-Stack Foundations
 
 </td>
 
 </tr>
 
 
+
 <tr>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=py" width="55"/>
+<img src="https://skillicons.dev/icons?i=py" width="60"/>
 
 <br>
 
@@ -127,26 +179,28 @@ SoftUni JavaScript Program
 <td align="center">
 
 Automation<br>
-Problem Solving<br>
-Scripting
+Scripting<br>
+Problem Solving
 
 </td>
 
 <td align="center">
 
-Building logic<br>
-Exploring applications
+Tools<br>
+Experiments<br>
+Logic Development
 
 </td>
 
 </tr>
 
 
+
 <tr>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp" width="55"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="60"/>
 
 <br>
 
@@ -157,14 +211,16 @@ Exploring applications
 <td align="center">
 
 Programming Fundamentals<br>
-Performance Concepts
+Performance Concepts<br>
+Low-Level Thinking
 
 </td>
 
 <td align="center">
 
-Strengthening<br>
-Computer Science knowledge
+Computer Science<br>
+Algorithms<br>
+Optimization
 
 </td>
 
@@ -173,36 +229,50 @@ Computer Science knowledge
 
 </table>
 
+
 </div>
 
 
 ---
 
-# ⚙️ Backend Development Focus
+# 🏗️ Backend Development Pipeline
 
 
 ```text
-Backend Development
 
-        ↓
+                 CLIENT
 
-ASP.NET Core
+                    │
 
-        ↓
+                    ▼
 
-REST API Design
+        ┌─────────────────────┐
+        │      API LAYER      │
+        │     ASP.NET CORE    │
+        └─────────────────────┘
 
-        ↓
+                    │
 
-Business Logic
+                    ▼
 
-        ↓
+        ┌─────────────────────┐
+        │   BUSINESS LOGIC    │
+        └─────────────────────┘
 
-Database Integration
+                    │
 
-        ↓
+                    ▼
 
-Reliable Software Systems
+        ┌─────────────────────┐
+        │      DATABASE       │
+        └─────────────────────┘
+
+                    │
+
+                    ▼
+
+             SCALABLE SYSTEM 🚀
+
 ```
 
 
@@ -220,27 +290,106 @@ Reliable Software Systems
 
 ---
 
-# 📚 Currently Learning
+# 📚 Current Learning Log
 
 
-```yaml
-Current Focus:
+```text
+[ ACTIVE ]
 
-Backend:
-  - ASP.NET Core
-  - API Development
-  - Software Architecture
+✓ Backend Development
+✓ C# Programming
+✓ ASP.NET Core
+✓ REST API Development
+✓ Database Integration
 
-JavaScript:
-  - SoftUni JavaScript Program
-  - Modern Web Development
-  - Frontend Fundamentals
 
-Programming:
-  - Clean Code
-  - Problem Solving
-  - Better Engineering Practices
+[ STUDYING ]
+
+→ JavaScript @ SoftUni
+→ Modern Web Development
+→ Full-Stack Concepts
+→ Better Software Architecture
+
 ```
+
+
+---
+
+# 🧠 Development Principles
+
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<th align="center">
+PRINCIPLE
+</th>
+
+<th align="center">
+APPROACH
+</th>
+
+</tr>
+
+
+<tr>
+
+<td align="center">
+🧱 Clean Code
+</td>
+
+<td align="center">
+Readable and maintainable solutions
+</td>
+
+</tr>
+
+
+<tr>
+
+<td align="center">
+🏗️ Architecture
+</td>
+
+<td align="center">
+Structured and scalable systems
+</td>
+
+</tr>
+
+
+<tr>
+
+<td align="center">
+⚡ Learning
+</td>
+
+<td align="center">
+Continuous improvement through practice
+</td>
+
+</tr>
+
+
+<tr>
+
+<td align="center">
+🎯 Quality
+</td>
+
+<td align="center">
+Reliable and efficient software
+</td>
+
+</tr>
+
+
+</table>
+
+</div>
 
 
 ---
@@ -250,48 +399,41 @@ Programming:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=00C896&icon_color=00C896" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=00C896" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ico316&show_icons=true&hide_border=true&theme=transparent&title_color=00C896&icon_color=00C896" width="48%"/>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ico316&layout=compact&hide_border=true&theme=transparent&title_color=00C896" width="40%"/>
+
 
 </div>
 
 
 ---
 
-# 🏗️ Development Principles
+# 🌌 Future Objectives
 
 
-| Principle | Approach |
-|---|---|
-| Clean Code | Write readable and maintainable solutions |
-| Architecture | Build systems with clear structure |
-| Learning | Improve through continuous practice |
-| Quality | Focus on reliable software |
-| Growth | Keep expanding technical knowledge |
-
-
----
-
-# 🚀 Future Goals
-
-
-- Advanced Backend Development
-- Cloud Technologies
-- Database Optimization
-- Software Architecture
-- Full-Stack Development
-- Professional Engineering Practices
+🚀 Advanced Backend Systems  
+☁️ Cloud Technologies  
+🔐 Security & Best Practices  
+🗄️ Database Optimization  
+🤖 AI Integration  
+🌐 Distributed Applications  
 
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00C896&center=true&width=600&lines=Backend+Developer;Always+Learning;Always+Building" />
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00C896&center=true&width=700&lines=BACKEND+MODE+ACTIVE;BUILDING+THE+FUTURE;CODE+%7C+LEARN+%7C+IMPROVE" />
 
-**Hristo — Backend Developer**
+
+<br/>
+
+
+⚡ **HRISTO // BACKEND DEVELOPER PROFILE ONLINE** ⚡
+
 
 </div>
