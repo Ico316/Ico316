@@ -1,58 +1,223 @@
-<!-- Header with a basketball and coding theme -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2C9F45&center=true&vCenter=true&random=false&width=500&lines=Hristo;Power+Forward+%2F+Developer;Strong+in+the+Paint+%26+Strong+in+Code;Versatile.+Reliable.+Impactful." alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<!-- Language badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=800&lines=HRISTO;POWER+FORWARD+%2F+DEVELOPER;CODE+ATHLETE;BUILDING+SYSTEMS+WITH+IMPACT" />
 
----
+<br/>
 
-### 🏀 About Me: The Power Forward Mindset
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 
-Hey there! I'm **Hristo**. On the court, I'm a **Power Forward**. In the world of code, I bring that same mentality to every project.
+<br/><br/>
 
-A Power Forward is:
-- **Strong & Reliable** 💪 – I build robust, scalable systems that don't break under pressure.
-- **Versatile** 🔄 – I stretch the floor with frontend work and dominate the paint with backend logic.
-- **A Hard Worker** 🏋️ – I crash the boards, do the dirty work, and make sure the team succeeds.
-- **Always in Position** 🎯 – Clean architecture, proper structure, and being where I'm needed most.
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff99?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/ROLE-SOFTWARE%20ENGINEER-00ffff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MINDSET-POWER%20FORWARD-ff00ff?style=for-the-badge" />
 
-Just like boxing out for a rebound, I secure my code before moving forward. And when it's time to score? I deliver clean, efficient solutions.
+</div>
+
 
 ---
 
-### 💻 My Tech Stack (The Starting Five)
+# 🏀⚡ HRISTO // PLAYER PROFILE
 
-| Position | Language | Badge | My Role with It |
-|:---|:---|:---|:---|
-| **Power Forward** | **C#** | ![C#](https://skillicons.dev/icons?i=cs) | The anchor. Building enterprise apps, robust APIs, and Unity games with strong fundamentals. |
-| **Shooting Guard** | **JavaScript** | ![JavaScript](https://skillicons.dev/icons?i=js) | Stretching the floor. Creating dynamic frontends and full-stack experiences that score with users. |
-| **Center** | **C++** | ![C++](https://skillicons.dev/icons?i=cpp) | Dominating the paint. High-performance systems, game engines, and memory-critical applications. |
-| **Point Guard** | **Python** | ![Python](https://skillicons.dev/icons?i=py) | Running the offense. Automation, data analysis, AI—making the smart plays. |
+
+```yaml
+Name: Hristo
+
+Role:
+  - Developer
+  - Power Forward
+
+Mission:
+  Build scalable systems.
+  Solve problems.
+  Improve every day.
+
+Mentality:
+  Discipline + Creativity + Execution
+```
+
 
 ---
 
-### 📊 Game Stats (GitHub Edition)
+# 🧬 ABOUT ME
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HRISTO_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=2C9F45&icon_color=2C9F45" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRISTO_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=2C9F45" alt="Top Languages" width="40%" />
-</p>
+I approach software development like basketball.
+
+A Power Forward does not only score.
+
+They defend.
+They adapt.
+They create opportunities.
+They do the hard work.
+
+The same mindset applies to code:
+
+🧱 **Strong Foundations**  
+Clean architecture and reliable systems.
+
+⚡ **Versatility**  
+Backend, frontend, games, automation.
+
+🎯 **Precision**  
+Readable, maintainable solutions.
+
+🏆 **Team Impact**  
+Code that helps everyone move faster.
+
 
 ---
 
-### 🏆 My Approach: Power Forward Principles
+# 🚀 TECH STACK // STARTING FIVE
 
-| Principle | How It Applies to Coding |
-|:---|:---|
-| **Post Up** 🧱 | Establish a strong foundation before adding features. Clean architecture first. |
-| **Face Up** 👀 | Be versatile. Ready to drive to the rim (backend) or hit the jumper (frontend) depending on what the project needs. |
-| **Crash the Boards** 🔨 | Hunt down bugs relentlessly. Second chances come from good defense and debugging. |
-| **Set Hard Screens** 🛡️ | Write code that makes my teammates (other developers) better. Clear documentation, readable logic. |
-| **Lead by Example** 👑 | Ship quality code. Be reliable. Show up every day. |
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,cpp,py,html,css,git,github,unity,vscode" />
+
+</div>
+
+
+| Position | Technology | Role |
+|---|---|---|
+| 🏀 Power Forward | C# | Backend APIs, .NET, enterprise systems |
+| 🎯 Shooting Guard | JavaScript | Frontend and full-stack development |
+| 🧱 Center | C++ | Performance and low-level programming |
+| 🧠 Point Guard | Python | Automation, scripting, AI |
+
+
+---
+
+# ⚡ SYSTEM ARCHITECTURE
+
+
+```text
+                 🌐 USER
+
+                   │
+
+                   ▼
+
+          ┌─────────────────┐
+          │   APPLICATION   │
+          └─────────────────┘
+
+                   │
+
+                   ▼
+
+          ┌─────────────────┐
+          │   API LAYER     │
+          │  ASP.NET CORE   │
+          └─────────────────┘
+
+                   │
+
+                   ▼
+
+          ┌─────────────────┐
+          │ DATABASE ENGINE │
+          └─────────────────┘
+
+                   │
+
+                   ▼
+
+             🚀 FUTURE SCALE
+```
+
+
+---
+
+# 📊 GITHUB PERFORMANCE HUD
+
+
+<div align="center">
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=HRISTO_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff99&icon_color=00ffff" width="48%" />
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRISTO_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff99" width="40%" />
+
+
+</div>
+
+
+---
+
+# 🔥 MISSION LOG
+
+
+```text
+[✓] Building APIs
+
+[✓] Learning new technologies
+
+[✓] Improving architecture
+
+[✓] Creating projects
+
+
+STATUS:
+
+>>> LEVELING UP ENGINEERING SKILLS
+```
+
+
+---
+
+# 🧠 DEVELOPMENT PHILOSOPHY
+
+
+| Basketball Principle | Coding Principle |
+|---|---|
+| 🧱 Post Up | Build strong foundations |
+| 🎯 Take The Shot | Deliver solutions |
+| 🔨 Crash The Boards | Debug relentlessly |
+| 🛡️ Defense | Write secure code |
+| 👑 Lead The Team | Share knowledge |
+
+
+---
+
+# 🌌 FUTURE UPGRADES
+
+
+🚀 Cloud Engineering  
+🤖 Artificial Intelligence  
+🎮 Game Development  
+🔐 Cyber Security  
+🌐 Distributed Systems  
+
+
+---
+
+# 🛰️ CURRENT OBJECTIVE
+
+
+```text
+╔══════════════════════════╗
+║    DEVELOPER MODE: ON    ║
+╠══════════════════════════╣
+║ Learn                    ║
+║ Build                    ║
+║ Improve                  ║
+║ Ship                     ║
+╚══════════════════════════╝
+```
+
+
+---
+
+<div align="center">
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2000&pause=700&color=00FFFF&center=true&width=700&lines=CODE+IS+THE+COURT;BUILD+THE+PLAY;DELIVER+THE+WIN" />
+
+
+<br/>
+
+🏀⚡ **HRISTO // SYSTEM ONLINE** ⚡🏀
+
+
+</div>
